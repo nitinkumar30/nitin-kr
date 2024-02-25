@@ -33,7 +33,7 @@ My portfolio website serves as a comprehensive representation of my professional
 
 Feel free to explore my portfolio website to learn more about my skills, projects, and experience. If you have any inquiries or collaboration opportunities, don't hesitate to reach out to me via the provided contact form.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ddaf84af-22a5-47b6-85c8-9d08e7055062/deploy-status)](https://app.netlify.com/sites/nitinkumar30/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddaf84af-22a5-47b6-85c8-9d08e7055062/deploy-status)](https://app.netlify.com/sites/nitinkumar30/deploys?branch=v2.1.0)
 
 ## Credits 🙌
 
